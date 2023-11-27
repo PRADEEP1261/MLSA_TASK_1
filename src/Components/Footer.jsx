@@ -50,6 +50,7 @@ const Footer = (props) => {
         gap: "2.5rem",
         padding: "5rem 0 3rem",
         backgroundColor: primaryColor,
+        // eslint-disable-next-line prettier/prettier
         width: "100vw"
       }}
     >
@@ -105,7 +106,7 @@ const Footer = (props) => {
         )}
         {youTube && (
           <a
-            href={`https://www.youtube.com/c/${youTube}`}
+            href={`https://www.youtube.com/channel/${youTube}`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -134,6 +135,7 @@ Footer.propTypes = {
   name: PropTypes.string.isRequired,
   primaryColor: PropTypes.string,
   twitter: PropTypes.string,
+  // eslint-disable-next-line prettier/prettier
   youTube: PropTypes.string,
 
 };

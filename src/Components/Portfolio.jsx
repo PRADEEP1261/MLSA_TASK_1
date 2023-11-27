@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Technocolabs Front-End Web Developer Internship",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Worked on a project to create a website for a company that provides services to clients. The website was created using HTML, CSS, JavaScript, and Bootstrap.",
+    url: "https://drive.google.com/file/d/1DSjSUK2rK1b0BkxZsUhPiOfSyQ6ZhuOU/view?usp=sharing",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Learn Student Ambassador",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I am a Microsoft Learn Student Ambassador and I am passionate about learning new technologies and sharing my knowledge with others.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/1b58670c-67a7-4b3a-b9fc-9d35c4e46053",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is my resume that have my experiences, Achievements, Position of Responsibilities and Projects.",
+    url: "https://drive.google.com/file/d/1gM-NdzyoEg5EMNDGa7WUpUXzHrxQ_kko/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "MedPill - Azure Static Web App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is the Video that explain what is my Project, What i have used and how it works.",
+    url: "https://youtu.be/q6AnabFthJ0?si=9PgkkBr3c_gpL6il",
   },
 ];
 
